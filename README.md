@@ -1,5 +1,3 @@
-If your script has been compiled into an executable (EXE), here's an updated version of the README that includes instructions for running the executable:
-
 ---
 
 # File Sorting and Backup Script
@@ -112,5 +110,3 @@ This Python script helps you organize and back up your files by sorting them bas
 * Ensure the `os`, `shutil`, `datetime`, and `time` libraries are available (they come with Python by default).
 
 ---
-
-This version of the README includes instructions for both the Python script and the EXE version. Let me know if you'd like to further refine it!
